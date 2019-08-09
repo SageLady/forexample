@@ -1,0 +1,5 @@
+Hands On exercise #1:
+Write a program that prints a number in decimal, binary
+and hex.
+
+solutions: solution: https://play.golang.org/p/bAQxcEuK8O 

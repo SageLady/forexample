@@ -1,0 +1,14 @@
+Hands on excercise #2:
+Using the following operators, write expressions and assign their
+values to varialbles:
+g. ==
+h. <=
+i. >=
+j. !=
+k. <
+l. >
+
+And, now print these variables.
+Solution: https://play.golang.org/p/76R-poSzaY  
+
+

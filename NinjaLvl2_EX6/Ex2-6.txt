@@ -1,0 +1,7 @@
+Hands on excercise #6
+Using iota, create 4 constants for hte NEXT 
+4 years. Print the constant values.
+
+Solution: https://play.golang.org/p/MDLF3v5EGT 
+
+
