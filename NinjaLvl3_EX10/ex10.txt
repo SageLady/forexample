@@ -1,0 +1,7 @@
+mt.println(true && true) OUTCOME: true
+fmt.println(true && false) OUTCOME: false
+fmt.println(true || true) OUTCOME: true
+fmt.println(true || false) OUTCOME: true
+fmt.println(!true) OUTCOME: false
+
+touch file to get updated
