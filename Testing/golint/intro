@@ -1,0 +1,19 @@
+//package main
+
+//To install golint
+//Golint requires Go 1.6 or higher
+//go get -u github.com/golang/lint/golint
+
+//Start at the top of all your programs
+//at command line:
+//    $ golint ./...
+
+//Golint = reports poor coding style
+//Golint
+//gofmt
+//formats go code
+//go vet
+//reports suspicious constructs
+//golint
+//reports poor coding style
+//video: 184
